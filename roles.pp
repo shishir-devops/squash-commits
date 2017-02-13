@@ -1,2 +1,3 @@
 first line
-second line:wq
+second line
+third line
