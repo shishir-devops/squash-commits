@@ -1,3 +1,6 @@
 first line
 second line
+<<<<<<< HEAD
 third line
+=======
+>>>>>>> 97b834d... adding new files puppet.conf, hiera.yaml and roles.pp
