@@ -2,3 +2,4 @@ this is a new file
 I will use this for squashing commits.
 in the new feature branch
 and then merge back into master.
+second commit
